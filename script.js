@@ -34,7 +34,7 @@ let fly = {
     x: -50,
     y: 280,
     phase: Math.random() * 6,
-    speed: 100
+    speed: 80
 };
 
 let nextFlyAt = 0;
